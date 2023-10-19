@@ -1,0 +1,1219 @@
+Respondent,Province,Household type,Own a Computer?,,Province Label,Household Label,Own a Computer Label
+1,48,2,1,,Alberta,Couple without children,Yes
+2,35,3,1,,Ontario,Couple with children,Yes
+3,24,3,1,,Quebec,Couple with children,Yes
+4,12,1,1,,Nova Scotia,One person household,Yes
+5,24,2,1,,Quebec,Couple without children,Yes
+6,48,2,1,,Alberta,Couple without children,Yes
+7,11,5,1,,Prince Edward Island,Lone parent family with no additional persons,Yes
+8,10,1,2,,Newfoundland and Labrador,One person household,No
+9,59,1,1,,British Columbia,One person household,Yes
+10,59,5,1,,British Columbia,Lone parent family with no additional persons,Yes
+11,11,4,1,,Prince Edward Island,Couple with other related or unrelated persons,Yes
+12,10,1,2,,Newfoundland and Labrador,One person household,No
+13,12,3,1,,Nova Scotia,Couple with children,Yes
+14,12,3,1,,Nova Scotia,Couple with children,Yes
+15,35,2,1,,Ontario,Couple without children,Yes
+16,10,1,1,,Newfoundland and Labrador,One person household,Yes
+17,48,5,1,,Alberta,Lone parent family with no additional persons,Yes
+18,63,5,1,,Territorial capitals,Lone parent family with no additional persons,Yes
+19,47,5,1,,Saskatchewan,Lone parent family with no additional persons,Yes
+20,48,1,1,,Alberta,One person household,Yes
+21,35,2,1,,Ontario,Couple without children,Yes
+22,59,4,1,,British Columbia,Couple with other related or unrelated persons,Yes
+23,63,3,1,,Territorial capitals,Couple with children,Yes
+24,47,2,2,,Saskatchewan,Couple without children,No
+25,13,2,1,,New Brunswick,Couple without children,Yes
+26,35,6,1,,Ontario,Other household with related or unrelated persons,Yes
+27,47,2,1,,Saskatchewan,Couple without children,Yes
+28,47,1,2,,Saskatchewan,One person household,No
+29,12,2,1,,Nova Scotia,Couple without children,Yes
+30,48,3,1,,Alberta,Couple with children,Yes
+31,11,2,1,,Prince Edward Island,Couple without children,Yes
+32,10,2,2,,Newfoundland and Labrador,Couple without children,No
+33,10,3,1,,Newfoundland and Labrador,Couple with children,Yes
+34,47,3,1,,Saskatchewan,Couple with children,Yes
+35,13,3,1,,New Brunswick,Couple with children,Yes
+36,13,2,1,,New Brunswick,Couple without children,Yes
+37,12,1,1,,Nova Scotia,One person household,Yes
+38,13,1,2,,New Brunswick,One person household,No
+39,59,3,1,,British Columbia,Couple with children,Yes
+40,48,1,1,,Alberta,One person household,Yes
+41,24,5,1,,Quebec,Lone parent family with no additional persons,Yes
+42,10,2,1,,Newfoundland and Labrador,Couple without children,Yes
+43,48,3,1,,Alberta,Couple with children,Yes
+44,59,2,1,,British Columbia,Couple without children,Yes
+45,46,5,1,,Manitoba,Lone parent family with no additional persons,Yes
+46,24,3,1,,Quebec,Couple with children,Yes
+47,13,1,2,,New Brunswick,One person household,No
+48,59,1,1,,British Columbia,One person household,Yes
+49,59,3,1,,British Columbia,Couple with children,Yes
+50,12,5,2,,Nova Scotia,Lone parent family with no additional persons,No
+51,35,1,1,,Ontario,One person household,Yes
+52,47,3,1,,Saskatchewan,Couple with children,Yes
+53,63,3,1,,Territorial capitals,Couple with children,Yes
+54,24,5,1,,Quebec,Lone parent family with no additional persons,Yes
+55,48,2,2,,Alberta,Couple without children,No
+56,47,1,1,,Saskatchewan,One person household,Yes
+57,46,2,1,,Manitoba,Couple without children,Yes
+58,24,2,1,,Quebec,Couple without children,Yes
+59,48,3,1,,Alberta,Couple with children,Yes
+60,59,1,1,,British Columbia,One person household,Yes
+61,46,1,1,,Manitoba,One person household,Yes
+62,46,3,1,,Manitoba,Couple with children,Yes
+63,35,3,1,,Ontario,Couple with children,Yes
+64,12,2,1,,Nova Scotia,Couple without children,Yes
+65,59,1,1,,British Columbia,One person household,Yes
+66,59,2,1,,British Columbia,Couple without children,Yes
+67,24,1,1,,Quebec,One person household,Yes
+68,10,1,2,,Newfoundland and Labrador,One person household,No
+69,10,2,1,,Newfoundland and Labrador,Couple without children,Yes
+70,10,3,1,,Newfoundland and Labrador,Couple with children,Yes
+71,12,2,1,,Nova Scotia,Couple without children,Yes
+72,48,2,1,,Alberta,Couple without children,Yes
+73,24,3,1,,Quebec,Couple with children,Yes
+74,46,3,1,,Manitoba,Couple with children,Yes
+75,63,3,1,,Territorial capitals,Couple with children,Yes
+76,48,3,1,,Alberta,Couple with children,Yes
+77,10,3,1,,Newfoundland and Labrador,Couple with children,Yes
+78,35,2,1,,Ontario,Couple without children,Yes
+79,10,4,1,,Newfoundland and Labrador,Couple with other related or unrelated persons,Yes
+80,35,3,1,,Ontario,Couple with children,Yes
+81,24,2,1,,Quebec,Couple without children,Yes
+82,35,2,1,,Ontario,Couple without children,Yes
+83,13,3,1,,New Brunswick,Couple with children,Yes
+84,46,2,1,,Manitoba,Couple without children,Yes
+85,35,3,2,,Ontario,Couple with children,No
+86,12,3,1,,Nova Scotia,Couple with children,Yes
+87,63,1,2,,Territorial capitals,One person household,No
+88,59,2,1,,British Columbia,Couple without children,Yes
+89,35,3,1,,Ontario,Couple with children,Yes
+90,24,2,1,,Quebec,Couple without children,Yes
+91,10,2,1,,Newfoundland and Labrador,Couple without children,Yes
+92,11,2,1,,Prince Edward Island,Couple without children,Yes
+93,48,4,1,,Alberta,Couple with other related or unrelated persons,Yes
+94,59,2,1,,British Columbia,Couple without children,Yes
+95,35,1,2,,Ontario,One person household,No
+96,12,2,1,,Nova Scotia,Couple without children,Yes
+97,59,6,1,,British Columbia,Other household with related or unrelated persons,Yes
+98,24,2,1,,Quebec,Couple without children,Yes
+99,59,1,2,,British Columbia,One person household,No
+100,35,3,1,,Ontario,Couple with children,Yes
+101,13,1,1,,New Brunswick,One person household,Yes
+102,12,1,2,,Nova Scotia,One person household,No
+103,35,3,1,,Ontario,Couple with children,Yes
+104,46,3,1,,Manitoba,Couple with children,Yes
+105,46,6,1,,Manitoba,Other household with related or unrelated persons,Yes
+106,13,3,1,,New Brunswick,Couple with children,Yes
+107,59,1,2,,British Columbia,One person household,No
+108,46,2,1,,Manitoba,Couple without children,Yes
+109,11,2,1,,Prince Edward Island,Couple without children,Yes
+110,47,1,1,,Saskatchewan,One person household,Yes
+111,11,3,1,,Prince Edward Island,Couple with children,Yes
+112,35,5,1,,Ontario,Lone parent family with no additional persons,Yes
+113,10,2,2,,Newfoundland and Labrador,Couple without children,No
+114,12,2,1,,Nova Scotia,Couple without children,Yes
+115,35,1,2,,Ontario,One person household,No
+116,46,3,1,,Manitoba,Couple with children,Yes
+117,24,2,1,,Quebec,Couple without children,Yes
+118,63,2,1,,Territorial capitals,Couple without children,Yes
+119,24,6,1,,Quebec,Other household with related or unrelated persons,Yes
+120,63,3,1,,Territorial capitals,Couple with children,Yes
+121,48,5,1,,Alberta,Lone parent family with no additional persons,Yes
+122,10,6,2,,Newfoundland and Labrador,Other household with related or unrelated persons,No
+123,13,3,1,,New Brunswick,Couple with children,Yes
+124,63,6,1,,Territorial capitals,Other household with related or unrelated persons,Yes
+125,35,3,1,,Ontario,Couple with children,Yes
+126,47,5,1,,Saskatchewan,Lone parent family with no additional persons,Yes
+127,46,1,1,,Manitoba,One person household,Yes
+128,11,1,2,,Prince Edward Island,One person household,No
+129,13,3,1,,New Brunswick,Couple with children,Yes
+130,35,6,1,,Ontario,Other household with related or unrelated persons,Yes
+131,13,3,2,,New Brunswick,Couple with children,No
+132,59,2,1,,British Columbia,Couple without children,Yes
+133,59,3,2,,British Columbia,Couple with children,No
+134,35,5,1,,Ontario,Lone parent family with no additional persons,Yes
+135,46,1,1,,Manitoba,One person household,Yes
+136,11,1,2,,Prince Edward Island,One person household,No
+137,48,6,2,,Alberta,Other household with related or unrelated persons,No
+138,24,2,2,,Quebec,Couple without children,No
+139,11,2,1,,Prince Edward Island,Couple without children,Yes
+140,24,3,1,,Quebec,Couple with children,Yes
+141,11,2,2,,Prince Edward Island,Couple without children,No
+142,47,1,1,,Saskatchewan,One person household,Yes
+143,59,1,2,,British Columbia,One person household,No
+144,12,1,2,,Nova Scotia,One person household,No
+145,59,2,1,,British Columbia,Couple without children,Yes
+146,12,6,2,,Nova Scotia,Other household with related or unrelated persons,No
+147,48,3,1,,Alberta,Couple with children,Yes
+148,35,6,1,,Ontario,Other household with related or unrelated persons,Yes
+149,35,3,1,,Ontario,Couple with children,Yes
+150,63,1,2,,Territorial capitals,One person household,No
+151,13,3,1,,New Brunswick,Couple with children,Yes
+152,59,2,1,,British Columbia,Couple without children,Yes
+153,12,5,1,,Nova Scotia,Lone parent family with no additional persons,Yes
+154,13,6,1,,New Brunswick,Other household with related or unrelated persons,Yes
+155,63,6,2,,Territorial capitals,Other household with related or unrelated persons,No
+156,35,2,1,,Ontario,Couple without children,Yes
+157,13,5,1,,New Brunswick,Lone parent family with no additional persons,Yes
+158,59,2,1,,British Columbia,Couple without children,Yes
+159,63,3,1,,Territorial capitals,Couple with children,Yes
+160,63,1,1,,Territorial capitals,One person household,Yes
+161,10,2,1,,Newfoundland and Labrador,Couple without children,Yes
+162,47,5,1,,Saskatchewan,Lone parent family with no additional persons,Yes
+163,35,2,2,,Ontario,Couple without children,No
+164,59,3,1,,British Columbia,Couple with children,Yes
+165,46,3,1,,Manitoba,Couple with children,Yes
+166,13,2,2,,New Brunswick,Couple without children,No
+167,10,1,2,,Newfoundland and Labrador,One person household,No
+168,35,2,1,,Ontario,Couple without children,Yes
+169,35,3,1,,Ontario,Couple with children,Yes
+170,12,5,1,,Nova Scotia,Lone parent family with no additional persons,Yes
+171,46,3,2,,Manitoba,Couple with children,No
+172,24,1,2,,Quebec,One person household,No
+173,59,6,1,,British Columbia,Other household with related or unrelated persons,Yes
+174,13,2,1,,New Brunswick,Couple without children,Yes
+175,35,3,1,,Ontario,Couple with children,Yes
+176,47,1,1,,Saskatchewan,One person household,Yes
+177,47,2,1,,Saskatchewan,Couple without children,Yes
+178,12,3,1,,Nova Scotia,Couple with children,Yes
+179,12,1,1,,Nova Scotia,One person household,Yes
+180,35,2,1,,Ontario,Couple without children,Yes
+181,10,2,1,,Newfoundland and Labrador,Couple without children,Yes
+182,47,2,1,,Saskatchewan,Couple without children,Yes
+183,10,2,1,,Newfoundland and Labrador,Couple without children,Yes
+184,10,1,1,,Newfoundland and Labrador,One person household,Yes
+185,10,3,1,,Newfoundland and Labrador,Couple with children,Yes
+186,13,3,1,,New Brunswick,Couple with children,Yes
+187,24,4,1,,Quebec,Couple with other related or unrelated persons,Yes
+188,13,2,1,,New Brunswick,Couple without children,Yes
+189,12,2,2,,Nova Scotia,Couple without children,No
+190,47,2,1,,Saskatchewan,Couple without children,Yes
+191,10,4,1,,Newfoundland and Labrador,Couple with other related or unrelated persons,Yes
+192,12,2,1,,Nova Scotia,Couple without children,Yes
+193,10,2,1,,Newfoundland and Labrador,Couple without children,Yes
+194,12,1,2,,Nova Scotia,One person household,No
+195,46,6,1,,Manitoba,Other household with related or unrelated persons,Yes
+196,46,2,1,,Manitoba,Couple without children,Yes
+197,59,2,1,,British Columbia,Couple without children,Yes
+198,12,2,1,,Nova Scotia,Couple without children,Yes
+199,11,1,1,,Prince Edward Island,One person household,Yes
+200,24,3,1,,Quebec,Couple with children,Yes
+201,24,5,1,,Quebec,Lone parent family with no additional persons,Yes
+202,48,1,1,,Alberta,One person household,Yes
+203,13,1,2,,New Brunswick,One person household,No
+204,59,3,1,,British Columbia,Couple with children,Yes
+205,12,4,1,,Nova Scotia,Couple with other related or unrelated persons,Yes
+206,35,1,2,,Ontario,One person household,No
+207,46,2,2,,Manitoba,Couple without children,No
+208,47,2,2,,Saskatchewan,Couple without children,No
+209,11,1,1,,Prince Edward Island,One person household,Yes
+210,24,2,1,,Quebec,Couple without children,Yes
+211,13,3,1,,New Brunswick,Couple with children,Yes
+212,10,3,1,,Newfoundland and Labrador,Couple with children,Yes
+213,35,3,1,,Ontario,Couple with children,Yes
+214,63,1,1,,Territorial capitals,One person household,Yes
+215,59,3,1,,British Columbia,Couple with children,Yes
+216,59,1,1,,British Columbia,One person household,Yes
+217,47,1,1,,Saskatchewan,One person household,Yes
+218,11,2,1,,Prince Edward Island,Couple without children,Yes
+219,48,1,2,,Alberta,One person household,No
+220,59,1,1,,British Columbia,One person household,Yes
+221,59,1,2,,British Columbia,One person household,No
+222,47,2,1,,Saskatchewan,Couple without children,Yes
+223,35,2,1,,Ontario,Couple without children,Yes
+224,46,3,1,,Manitoba,Couple with children,Yes
+225,12,1,1,,Nova Scotia,One person household,Yes
+226,24,1,1,,Quebec,One person household,Yes
+227,24,2,1,,Quebec,Couple without children,Yes
+228,46,3,1,,Manitoba,Couple with children,Yes
+229,35,1,2,,Ontario,One person household,No
+230,10,2,1,,Newfoundland and Labrador,Couple without children,Yes
+231,63,2,1,,Territorial capitals,Couple without children,Yes
+232,12,5,1,,Nova Scotia,Lone parent family with no additional persons,Yes
+233,48,1,2,,Alberta,One person household,No
+234,35,1,2,,Ontario,One person household,No
+235,46,3,1,,Manitoba,Couple with children,Yes
+236,46,5,2,,Manitoba,Lone parent family with no additional persons,No
+237,13,4,1,,New Brunswick,Couple with other related or unrelated persons,Yes
+238,13,2,2,,New Brunswick,Couple without children,No
+239,13,1,2,,New Brunswick,One person household,No
+240,13,1,2,,New Brunswick,One person household,No
+241,13,1,1,,New Brunswick,One person household,Yes
+242,47,2,1,,Saskatchewan,Couple without children,Yes
+243,46,2,1,,Manitoba,Couple without children,Yes
+244,48,3,1,,Alberta,Couple with children,Yes
+245,24,2,1,,Quebec,Couple without children,Yes
+246,47,2,1,,Saskatchewan,Couple without children,Yes
+247,35,3,1,,Ontario,Couple with children,Yes
+248,63,2,1,,Territorial capitals,Couple without children,Yes
+249,12,1,2,,Nova Scotia,One person household,No
+250,48,3,1,,Alberta,Couple with children,Yes
+251,63,3,1,,Territorial capitals,Couple with children,Yes
+252,13,3,1,,New Brunswick,Couple with children,Yes
+253,59,3,1,,British Columbia,Couple with children,Yes
+254,11,1,1,,Prince Edward Island,One person household,Yes
+255,48,2,1,,Alberta,Couple without children,Yes
+256,63,3,1,,Territorial capitals,Couple with children,Yes
+257,48,2,1,,Alberta,Couple without children,Yes
+258,12,2,2,,Nova Scotia,Couple without children,No
+259,35,1,1,,Ontario,One person household,Yes
+260,13,2,2,,New Brunswick,Couple without children,No
+261,12,3,2,,Nova Scotia,Couple with children,No
+262,46,3,1,,Manitoba,Couple with children,Yes
+263,24,1,2,,Quebec,One person household,No
+264,10,2,2,,Newfoundland and Labrador,Couple without children,No
+265,35,3,1,,Ontario,Couple with children,Yes
+266,12,3,2,,Nova Scotia,Couple with children,No
+267,46,1,2,,Manitoba,One person household,No
+268,11,2,1,,Prince Edward Island,Couple without children,Yes
+269,48,3,1,,Alberta,Couple with children,Yes
+270,35,1,1,,Ontario,One person household,Yes
+271,13,3,1,,New Brunswick,Couple with children,Yes
+272,24,3,2,,Quebec,Couple with children,No
+273,47,2,1,,Saskatchewan,Couple without children,Yes
+274,63,2,2,,Territorial capitals,Couple without children,No
+275,59,2,1,,British Columbia,Couple without children,Yes
+276,59,3,1,,British Columbia,Couple with children,Yes
+277,48,4,1,,Alberta,Couple with other related or unrelated persons,Yes
+278,11,2,1,,Prince Edward Island,Couple without children,Yes
+279,35,3,1,,Ontario,Couple with children,Yes
+280,12,5,1,,Nova Scotia,Lone parent family with no additional persons,Yes
+281,48,3,1,,Alberta,Couple with children,Yes
+282,35,2,1,,Ontario,Couple without children,Yes
+283,46,3,1,,Manitoba,Couple with children,Yes
+284,13,1,1,,New Brunswick,One person household,Yes
+285,46,3,1,,Manitoba,Couple with children,Yes
+286,47,1,1,,Saskatchewan,One person household,Yes
+287,12,2,1,,Nova Scotia,Couple without children,Yes
+288,63,3,1,,Territorial capitals,Couple with children,Yes
+289,46,1,1,,Manitoba,One person household,Yes
+290,35,1,2,,Ontario,One person household,No
+291,12,1,1,,Nova Scotia,One person household,Yes
+292,10,2,1,,Newfoundland and Labrador,Couple without children,Yes
+293,13,3,1,,New Brunswick,Couple with children,Yes
+294,35,1,1,,Ontario,One person household,Yes
+295,59,3,1,,British Columbia,Couple with children,Yes
+296,24,3,1,,Quebec,Couple with children,Yes
+297,11,2,2,,Prince Edward Island,Couple without children,No
+298,47,3,1,,Saskatchewan,Couple with children,Yes
+299,12,2,1,,Nova Scotia,Couple without children,Yes
+300,24,2,1,,Quebec,Couple without children,Yes
+301,46,1,1,,Manitoba,One person household,Yes
+302,63,3,1,,Territorial capitals,Couple with children,Yes
+303,12,2,1,,Nova Scotia,Couple without children,Yes
+304,10,2,1,,Newfoundland and Labrador,Couple without children,Yes
+305,59,1,1,,British Columbia,One person household,Yes
+306,48,1,1,,Alberta,One person household,Yes
+307,35,1,1,,Ontario,One person household,Yes
+308,35,3,1,,Ontario,Couple with children,Yes
+309,10,2,1,,Newfoundland and Labrador,Couple without children,Yes
+310,46,5,1,,Manitoba,Lone parent family with no additional persons,Yes
+311,59,3,1,,British Columbia,Couple with children,Yes
+312,24,2,1,,Quebec,Couple without children,Yes
+313,11,6,1,,Prince Edward Island,Other household with related or unrelated persons,Yes
+314,12,2,2,,Nova Scotia,Couple without children,No
+315,13,2,1,,New Brunswick,Couple without children,Yes
+316,11,2,1,,Prince Edward Island,Couple without children,Yes
+317,10,2,1,,Newfoundland and Labrador,Couple without children,Yes
+318,47,2,1,,Saskatchewan,Couple without children,Yes
+319,35,1,2,,Ontario,One person household,No
+320,13,2,1,,New Brunswick,Couple without children,Yes
+321,59,1,1,,British Columbia,One person household,Yes
+322,10,2,1,,Newfoundland and Labrador,Couple without children,Yes
+323,46,5,1,,Manitoba,Lone parent family with no additional persons,Yes
+324,46,3,1,,Manitoba,Couple with children,Yes
+325,35,3,2,,Ontario,Couple with children,No
+326,59,3,1,,British Columbia,Couple with children,Yes
+327,11,2,1,,Prince Edward Island,Couple without children,Yes
+328,63,3,2,,Territorial capitals,Couple with children,No
+329,13,1,2,,New Brunswick,One person household,No
+330,11,1,2,,Prince Edward Island,One person household,No
+331,10,5,1,,Newfoundland and Labrador,Lone parent family with no additional persons,Yes
+332,11,3,1,,Prince Edward Island,Couple with children,Yes
+333,12,2,1,,Nova Scotia,Couple without children,Yes
+334,24,2,1,,Quebec,Couple without children,Yes
+335,10,3,1,,Newfoundland and Labrador,Couple with children,Yes
+336,47,2,1,,Saskatchewan,Couple without children,Yes
+337,59,4,1,,British Columbia,Couple with other related or unrelated persons,Yes
+338,24,2,1,,Quebec,Couple without children,Yes
+339,47,1,1,,Saskatchewan,One person household,Yes
+340,24,1,1,,Quebec,One person household,Yes
+341,13,2,1,,New Brunswick,Couple without children,Yes
+342,46,3,1,,Manitoba,Couple with children,Yes
+343,63,1,1,,Territorial capitals,One person household,Yes
+344,11,2,1,,Prince Edward Island,Couple without children,Yes
+345,48,5,1,,Alberta,Lone parent family with no additional persons,Yes
+346,24,6,1,,Quebec,Other household with related or unrelated persons,Yes
+347,11,3,1,,Prince Edward Island,Couple with children,Yes
+348,46,2,1,,Manitoba,Couple without children,Yes
+349,10,1,1,,Newfoundland and Labrador,One person household,Yes
+350,13,3,1,,New Brunswick,Couple with children,Yes
+351,10,2,1,,Newfoundland and Labrador,Couple without children,Yes
+352,63,3,2,,Territorial capitals,Couple with children,No
+353,24,1,1,,Quebec,One person household,Yes
+354,59,3,1,,British Columbia,Couple with children,Yes
+355,12,2,1,,Nova Scotia,Couple without children,Yes
+356,48,3,1,,Alberta,Couple with children,Yes
+357,35,3,1,,Ontario,Couple with children,Yes
+358,59,1,1,,British Columbia,One person household,Yes
+359,10,2,1,,Newfoundland and Labrador,Couple without children,Yes
+360,48,2,1,,Alberta,Couple without children,Yes
+361,13,3,1,,New Brunswick,Couple with children,Yes
+362,46,2,1,,Manitoba,Couple without children,Yes
+363,48,2,1,,Alberta,Couple without children,Yes
+364,24,3,1,,Quebec,Couple with children,Yes
+365,13,3,1,,New Brunswick,Couple with children,Yes
+366,10,1,1,,Newfoundland and Labrador,One person household,Yes
+367,47,6,1,,Saskatchewan,Other household with related or unrelated persons,Yes
+368,24,1,2,,Quebec,One person household,No
+369,47,1,1,,Saskatchewan,One person household,Yes
+370,48,3,1,,Alberta,Couple with children,Yes
+371,47,4,1,,Saskatchewan,Couple with other related or unrelated persons,Yes
+372,12,2,1,,Nova Scotia,Couple without children,Yes
+373,13,2,1,,New Brunswick,Couple without children,Yes
+374,13,3,2,,New Brunswick,Couple with children,No
+375,13,5,1,,New Brunswick,Lone parent family with no additional persons,Yes
+376,47,4,2,,Saskatchewan,Couple with other related or unrelated persons,No
+377,46,3,1,,Manitoba,Couple with children,Yes
+378,47,4,1,,Saskatchewan,Couple with other related or unrelated persons,Yes
+379,47,5,1,,Saskatchewan,Lone parent family with no additional persons,Yes
+380,13,2,1,,New Brunswick,Couple without children,Yes
+381,10,4,1,,Newfoundland and Labrador,Couple with other related or unrelated persons,Yes
+382,24,1,1,,Quebec,One person household,Yes
+383,46,5,1,,Manitoba,Lone parent family with no additional persons,Yes
+384,24,3,1,,Quebec,Couple with children,Yes
+385,12,6,1,,Nova Scotia,Other household with related or unrelated persons,Yes
+386,47,3,1,,Saskatchewan,Couple with children,Yes
+387,13,2,1,,New Brunswick,Couple without children,Yes
+388,13,2,2,,New Brunswick,Couple without children,No
+389,48,2,1,,Alberta,Couple without children,Yes
+390,48,3,1,,Alberta,Couple with children,Yes
+391,47,3,1,,Saskatchewan,Couple with children,Yes
+392,12,2,2,,Nova Scotia,Couple without children,No
+393,13,2,1,,New Brunswick,Couple without children,Yes
+394,48,1,2,,Alberta,One person household,No
+395,24,1,1,,Quebec,One person household,Yes
+396,13,3,1,,New Brunswick,Couple with children,Yes
+397,24,1,1,,Quebec,One person household,Yes
+398,12,2,1,,Nova Scotia,Couple without children,Yes
+399,13,3,1,,New Brunswick,Couple with children,Yes
+400,47,1,2,,Saskatchewan,One person household,No
+401,46,1,1,,Manitoba,One person household,Yes
+402,10,3,1,,Newfoundland and Labrador,Couple with children,Yes
+403,48,6,1,,Alberta,Other household with related or unrelated persons,Yes
+404,24,3,1,,Quebec,Couple with children,Yes
+405,35,3,1,,Ontario,Couple with children,Yes
+406,59,1,2,,British Columbia,One person household,No
+407,63,1,1,,Territorial capitals,One person household,Yes
+408,48,3,1,,Alberta,Couple with children,Yes
+409,48,1,1,,Alberta,One person household,Yes
+410,12,1,1,,Nova Scotia,One person household,Yes
+411,12,1,1,,Nova Scotia,One person household,Yes
+412,10,3,2,,Newfoundland and Labrador,Couple with children,No
+413,13,3,1,,New Brunswick,Couple with children,Yes
+414,48,1,1,,Alberta,One person household,Yes
+415,10,2,2,,Newfoundland and Labrador,Couple without children,No
+416,35,3,1,,Ontario,Couple with children,Yes
+417,24,3,1,,Quebec,Couple with children,Yes
+418,12,1,2,,Nova Scotia,One person household,No
+419,35,3,1,,Ontario,Couple with children,Yes
+420,48,1,2,,Alberta,One person household,No
+421,12,3,2,,Nova Scotia,Couple with children,No
+422,13,2,1,,New Brunswick,Couple without children,Yes
+423,35,3,1,,Ontario,Couple with children,Yes
+424,48,3,1,,Alberta,Couple with children,Yes
+425,24,2,1,,Quebec,Couple without children,Yes
+426,47,1,1,,Saskatchewan,One person household,Yes
+427,35,4,1,,Ontario,Couple with other related or unrelated persons,Yes
+428,46,3,1,,Manitoba,Couple with children,Yes
+429,59,6,1,,British Columbia,Other household with related or unrelated persons,Yes
+430,59,2,1,,British Columbia,Couple without children,Yes
+431,59,5,1,,British Columbia,Lone parent family with no additional persons,Yes
+432,10,3,1,,Newfoundland and Labrador,Couple with children,Yes
+433,12,1,1,,Nova Scotia,One person household,Yes
+434,59,4,1,,British Columbia,Couple with other related or unrelated persons,Yes
+435,47,2,1,,Saskatchewan,Couple without children,Yes
+436,48,3,1,,Alberta,Couple with children,Yes
+437,47,5,1,,Saskatchewan,Lone parent family with no additional persons,Yes
+438,10,2,1,,Newfoundland and Labrador,Couple without children,Yes
+439,10,3,1,,Newfoundland and Labrador,Couple with children,Yes
+440,10,1,1,,Newfoundland and Labrador,One person household,Yes
+441,10,1,2,,Newfoundland and Labrador,One person household,No
+442,10,2,2,,Newfoundland and Labrador,Couple without children,No
+443,13,2,1,,New Brunswick,Couple without children,Yes
+444,12,2,1,,Nova Scotia,Couple without children,Yes
+445,47,1,2,,Saskatchewan,One person household,No
+446,59,3,1,,British Columbia,Couple with children,Yes
+447,63,1,2,,Territorial capitals,One person household,No
+448,12,2,1,,Nova Scotia,Couple without children,Yes
+449,46,3,1,,Manitoba,Couple with children,Yes
+450,48,2,1,,Alberta,Couple without children,Yes
+451,46,3,1,,Manitoba,Couple with children,Yes
+452,46,3,1,,Manitoba,Couple with children,Yes
+453,48,3,1,,Alberta,Couple with children,Yes
+454,13,2,1,,New Brunswick,Couple without children,Yes
+455,12,2,1,,Nova Scotia,Couple without children,Yes
+456,24,1,1,,Quebec,One person household,Yes
+457,47,3,1,,Saskatchewan,Couple with children,Yes
+458,48,1,1,,Alberta,One person household,Yes
+459,12,2,1,,Nova Scotia,Couple without children,Yes
+460,10,1,1,,Newfoundland and Labrador,One person household,Yes
+461,47,3,1,,Saskatchewan,Couple with children,Yes
+462,35,3,1,,Ontario,Couple with children,Yes
+463,35,2,1,,Ontario,Couple without children,Yes
+464,12,2,1,,Nova Scotia,Couple without children,Yes
+465,59,2,1,,British Columbia,Couple without children,Yes
+466,10,2,1,,Newfoundland and Labrador,Couple without children,Yes
+467,46,2,1,,Manitoba,Couple without children,Yes
+468,24,6,1,,Quebec,Other household with related or unrelated persons,Yes
+469,10,2,1,,Newfoundland and Labrador,Couple without children,Yes
+470,12,3,1,,Nova Scotia,Couple with children,Yes
+471,63,5,1,,Territorial capitals,Lone parent family with no additional persons,Yes
+472,10,2,1,,Newfoundland and Labrador,Couple without children,Yes
+473,47,2,1,,Saskatchewan,Couple without children,Yes
+474,10,2,1,,Newfoundland and Labrador,Couple without children,Yes
+475,13,1,1,,New Brunswick,One person household,Yes
+476,59,1,1,,British Columbia,One person household,Yes
+477,48,3,1,,Alberta,Couple with children,Yes
+478,46,3,1,,Manitoba,Couple with children,Yes
+479,10,2,1,,Newfoundland and Labrador,Couple without children,Yes
+480,63,3,1,,Territorial capitals,Couple with children,Yes
+481,13,2,1,,New Brunswick,Couple without children,Yes
+482,48,3,1,,Alberta,Couple with children,Yes
+483,11,2,1,,Prince Edward Island,Couple without children,Yes
+484,35,1,1,,Ontario,One person household,Yes
+485,11,3,1,,Prince Edward Island,Couple with children,Yes
+486,63,3,1,,Territorial capitals,Couple with children,Yes
+487,35,1,1,,Ontario,One person household,Yes
+488,46,2,1,,Manitoba,Couple without children,Yes
+489,46,5,1,,Manitoba,Lone parent family with no additional persons,Yes
+490,12,4,1,,Nova Scotia,Couple with other related or unrelated persons,Yes
+491,59,2,1,,British Columbia,Couple without children,Yes
+492,35,3,1,,Ontario,Couple with children,Yes
+493,10,1,1,,Newfoundland and Labrador,One person household,Yes
+494,48,1,2,,Alberta,One person household,No
+495,48,2,1,,Alberta,Couple without children,Yes
+496,11,3,2,,Prince Edward Island,Couple with children,No
+497,46,4,1,,Manitoba,Couple with other related or unrelated persons,Yes
+498,59,1,2,,British Columbia,One person household,No
+499,10,1,1,,Newfoundland and Labrador,One person household,Yes
+500,12,3,1,,Nova Scotia,Couple with children,Yes
+501,13,2,1,,New Brunswick,Couple without children,Yes
+502,46,3,1,,Manitoba,Couple with children,Yes
+503,10,1,1,,Newfoundland and Labrador,One person household,Yes
+504,13,6,2,,New Brunswick,Other household with related or unrelated persons,No
+505,46,2,1,,Manitoba,Couple without children,Yes
+506,46,3,1,,Manitoba,Couple with children,Yes
+507,12,1,2,,Nova Scotia,One person household,No
+508,10,2,1,,Newfoundland and Labrador,Couple without children,Yes
+509,35,3,1,,Ontario,Couple with children,Yes
+510,48,1,1,,Alberta,One person household,Yes
+511,13,1,1,,New Brunswick,One person household,Yes
+512,46,2,1,,Manitoba,Couple without children,Yes
+513,13,2,2,,New Brunswick,Couple without children,No
+514,24,2,1,,Quebec,Couple without children,Yes
+515,46,3,2,,Manitoba,Couple with children,No
+516,10,1,2,,Newfoundland and Labrador,One person household,No
+517,63,3,1,,Territorial capitals,Couple with children,Yes
+518,10,2,1,,Newfoundland and Labrador,Couple without children,Yes
+519,24,1,1,,Quebec,One person household,Yes
+520,46,2,1,,Manitoba,Couple without children,Yes
+521,12,5,1,,Nova Scotia,Lone parent family with no additional persons,Yes
+522,59,2,1,,British Columbia,Couple without children,Yes
+523,13,1,2,,New Brunswick,One person household,No
+524,59,3,1,,British Columbia,Couple with children,Yes
+525,63,2,2,,Territorial capitals,Couple without children,No
+526,59,3,1,,British Columbia,Couple with children,Yes
+527,63,3,1,,Territorial capitals,Couple with children,Yes
+528,10,1,1,,Newfoundland and Labrador,One person household,Yes
+529,35,1,1,,Ontario,One person household,Yes
+530,47,2,1,,Saskatchewan,Couple without children,Yes
+531,11,3,2,,Prince Edward Island,Couple with children,No
+532,24,3,1,,Quebec,Couple with children,Yes
+533,10,6,1,,Newfoundland and Labrador,Other household with related or unrelated persons,Yes
+534,63,3,1,,Territorial capitals,Couple with children,Yes
+535,59,1,1,,British Columbia,One person household,Yes
+536,46,3,1,,Manitoba,Couple with children,Yes
+537,35,5,1,,Ontario,Lone parent family with no additional persons,Yes
+538,47,3,1,,Saskatchewan,Couple with children,Yes
+539,24,1,1,,Quebec,One person household,Yes
+540,24,5,1,,Quebec,Lone parent family with no additional persons,Yes
+541,35,3,2,,Ontario,Couple with children,No
+542,47,1,2,,Saskatchewan,One person household,No
+543,46,3,1,,Manitoba,Couple with children,Yes
+544,10,5,1,,Newfoundland and Labrador,Lone parent family with no additional persons,Yes
+545,63,2,1,,Territorial capitals,Couple without children,Yes
+546,24,2,1,,Quebec,Couple without children,Yes
+547,13,2,2,,New Brunswick,Couple without children,No
+548,24,1,1,,Quebec,One person household,Yes
+549,46,4,1,,Manitoba,Couple with other related or unrelated persons,Yes
+550,59,1,1,,British Columbia,One person household,Yes
+551,35,2,1,,Ontario,Couple without children,Yes
+552,59,2,1,,British Columbia,Couple without children,Yes
+553,13,1,1,,New Brunswick,One person household,Yes
+554,13,2,1,,New Brunswick,Couple without children,Yes
+555,48,2,1,,Alberta,Couple without children,Yes
+556,24,1,1,,Quebec,One person household,Yes
+557,11,1,1,,Prince Edward Island,One person household,Yes
+558,46,2,1,,Manitoba,Couple without children,Yes
+559,24,4,1,,Quebec,Couple with other related or unrelated persons,Yes
+560,48,2,1,,Alberta,Couple without children,Yes
+561,48,1,1,,Alberta,One person household,Yes
+562,13,3,1,,New Brunswick,Couple with children,Yes
+563,63,2,1,,Territorial capitals,Couple without children,Yes
+564,24,3,2,,Quebec,Couple with children,No
+565,46,3,1,,Manitoba,Couple with children,Yes
+566,12,2,1,,Nova Scotia,Couple without children,Yes
+567,48,2,1,,Alberta,Couple without children,Yes
+568,24,3,1,,Quebec,Couple with children,Yes
+569,35,3,1,,Ontario,Couple with children,Yes
+570,12,5,1,,Nova Scotia,Lone parent family with no additional persons,Yes
+571,13,3,1,,New Brunswick,Couple with children,Yes
+572,46,3,1,,Manitoba,Couple with children,Yes
+573,12,1,1,,Nova Scotia,One person household,Yes
+574,24,2,1,,Quebec,Couple without children,Yes
+575,35,2,1,,Ontario,Couple without children,Yes
+576,10,1,1,,Newfoundland and Labrador,One person household,Yes
+577,48,3,1,,Alberta,Couple with children,Yes
+578,10,1,2,,Newfoundland and Labrador,One person household,No
+579,59,2,2,,British Columbia,Couple without children,No
+580,11,3,1,,Prince Edward Island,Couple with children,Yes
+581,12,3,1,,Nova Scotia,Couple with children,Yes
+582,12,6,2,,Nova Scotia,Other household with related or unrelated persons,No
+583,24,2,1,,Quebec,Couple without children,Yes
+584,63,2,1,,Territorial capitals,Couple without children,Yes
+585,35,2,1,,Ontario,Couple without children,Yes
+586,35,2,1,,Ontario,Couple without children,Yes
+587,12,1,1,,Nova Scotia,One person household,Yes
+588,63,6,1,,Territorial capitals,Other household with related or unrelated persons,Yes
+589,46,4,1,,Manitoba,Couple with other related or unrelated persons,Yes
+590,12,3,1,,Nova Scotia,Couple with children,Yes
+591,13,2,2,,New Brunswick,Couple without children,No
+592,12,2,1,,Nova Scotia,Couple without children,Yes
+593,24,2,1,,Quebec,Couple without children,Yes
+594,63,3,1,,Territorial capitals,Couple with children,Yes
+595,24,3,2,,Quebec,Couple with children,No
+596,59,1,1,,British Columbia,One person household,Yes
+597,12,3,1,,Nova Scotia,Couple with children,Yes
+598,12,2,1,,Nova Scotia,Couple without children,Yes
+599,63,1,1,,Territorial capitals,One person household,Yes
+600,10,2,1,,Newfoundland and Labrador,Couple without children,Yes
+601,48,6,1,,Alberta,Other household with related or unrelated persons,Yes
+602,35,5,2,,Ontario,Lone parent family with no additional persons,No
+603,35,4,2,,Ontario,Couple with other related or unrelated persons,No
+604,59,2,1,,British Columbia,Couple without children,Yes
+605,35,2,1,,Ontario,Couple without children,Yes
+606,47,1,1,,Saskatchewan,One person household,Yes
+607,46,2,1,,Manitoba,Couple without children,Yes
+608,46,1,2,,Manitoba,One person household,No
+609,46,1,2,,Manitoba,One person household,No
+610,24,3,1,,Quebec,Couple with children,Yes
+611,35,3,1,,Ontario,Couple with children,Yes
+612,24,2,1,,Quebec,Couple without children,Yes
+613,46,2,1,,Manitoba,Couple without children,Yes
+614,35,6,1,,Ontario,Other household with related or unrelated persons,Yes
+615,63,3,1,,Territorial capitals,Couple with children,Yes
+616,13,1,2,,New Brunswick,One person household,No
+617,10,3,1,,Newfoundland and Labrador,Couple with children,Yes
+618,24,1,1,,Quebec,One person household,Yes
+619,10,3,1,,Newfoundland and Labrador,Couple with children,Yes
+620,59,4,1,,British Columbia,Couple with other related or unrelated persons,Yes
+621,59,3,1,,British Columbia,Couple with children,Yes
+622,35,1,1,,Ontario,One person household,Yes
+623,48,1,2,,Alberta,One person household,No
+624,13,1,1,,New Brunswick,One person household,Yes
+625,47,2,2,,Saskatchewan,Couple without children,No
+626,11,1,1,,Prince Edward Island,One person household,Yes
+627,47,2,1,,Saskatchewan,Couple without children,Yes
+628,46,3,1,,Manitoba,Couple with children,Yes
+629,59,1,2,,British Columbia,One person household,No
+630,46,2,1,,Manitoba,Couple without children,Yes
+631,48,1,1,,Alberta,One person household,Yes
+632,63,1,2,,Territorial capitals,One person household,No
+633,13,3,1,,New Brunswick,Couple with children,Yes
+634,24,2,1,,Quebec,Couple without children,Yes
+635,47,2,1,,Saskatchewan,Couple without children,Yes
+636,24,1,2,,Quebec,One person household,No
+637,24,3,1,,Quebec,Couple with children,Yes
+638,35,1,2,,Ontario,One person household,No
+639,59,3,1,,British Columbia,Couple with children,Yes
+640,12,3,2,,Nova Scotia,Couple with children,No
+641,12,2,2,,Nova Scotia,Couple without children,No
+642,59,2,1,,British Columbia,Couple without children,Yes
+643,10,2,1,,Newfoundland and Labrador,Couple without children,Yes
+644,47,2,1,,Saskatchewan,Couple without children,Yes
+645,46,4,1,,Manitoba,Couple with other related or unrelated persons,Yes
+646,11,3,1,,Prince Edward Island,Couple with children,Yes
+647,24,2,1,,Quebec,Couple without children,Yes
+648,48,1,2,,Alberta,One person household,No
+649,12,2,1,,Nova Scotia,Couple without children,Yes
+650,35,2,1,,Ontario,Couple without children,Yes
+651,12,2,1,,Nova Scotia,Couple without children,Yes
+652,35,2,1,,Ontario,Couple without children,Yes
+653,11,2,1,,Prince Edward Island,Couple without children,Yes
+654,12,1,1,,Nova Scotia,One person household,Yes
+655,48,6,1,,Alberta,Other household with related or unrelated persons,Yes
+656,24,6,2,,Quebec,Other household with related or unrelated persons,No
+657,46,2,1,,Manitoba,Couple without children,Yes
+658,13,2,2,,New Brunswick,Couple without children,No
+659,46,2,1,,Manitoba,Couple without children,Yes
+660,12,2,1,,Nova Scotia,Couple without children,Yes
+661,46,2,1,,Manitoba,Couple without children,Yes
+662,12,3,2,,Nova Scotia,Couple with children,No
+663,48,2,1,,Alberta,Couple without children,Yes
+664,59,1,2,,British Columbia,One person household,No
+665,11,2,1,,Prince Edward Island,Couple without children,Yes
+666,46,1,1,,Manitoba,One person household,Yes
+667,59,2,1,,British Columbia,Couple without children,Yes
+668,12,2,1,,Nova Scotia,Couple without children,Yes
+669,48,2,1,,Alberta,Couple without children,Yes
+670,11,2,1,,Prince Edward Island,Couple without children,Yes
+671,12,4,2,,Nova Scotia,Couple with other related or unrelated persons,No
+672,10,6,1,,Newfoundland and Labrador,Other household with related or unrelated persons,Yes
+673,24,4,1,,Quebec,Couple with other related or unrelated persons,Yes
+674,35,3,1,,Ontario,Couple with children,Yes
+675,10,1,1,,Newfoundland and Labrador,One person household,Yes
+676,10,2,1,,Newfoundland and Labrador,Couple without children,Yes
+677,46,2,1,,Manitoba,Couple without children,Yes
+678,46,3,1,,Manitoba,Couple with children,Yes
+679,63,3,1,,Territorial capitals,Couple with children,Yes
+680,35,1,1,,Ontario,One person household,Yes
+681,63,3,1,,Territorial capitals,Couple with children,Yes
+682,59,2,1,,British Columbia,Couple without children,Yes
+683,12,3,1,,Nova Scotia,Couple with children,Yes
+684,13,3,1,,New Brunswick,Couple with children,Yes
+685,24,3,1,,Quebec,Couple with children,Yes
+686,59,1,1,,British Columbia,One person household,Yes
+687,35,2,2,,Ontario,Couple without children,No
+688,63,1,1,,Territorial capitals,One person household,Yes
+689,47,3,1,,Saskatchewan,Couple with children,Yes
+690,10,1,2,,Newfoundland and Labrador,One person household,No
+691,59,2,1,,British Columbia,Couple without children,Yes
+692,48,1,1,,Alberta,One person household,Yes
+693,10,3,1,,Newfoundland and Labrador,Couple with children,Yes
+694,35,1,2,,Ontario,One person household,No
+695,46,2,1,,Manitoba,Couple without children,Yes
+696,46,3,1,,Manitoba,Couple with children,Yes
+697,35,1,2,,Ontario,One person household,No
+698,13,2,1,,New Brunswick,Couple without children,Yes
+699,59,2,1,,British Columbia,Couple without children,Yes
+700,47,1,2,,Saskatchewan,One person household,No
+701,12,1,2,,Nova Scotia,One person household,No
+702,59,1,1,,British Columbia,One person household,Yes
+703,63,6,1,,Territorial capitals,Other household with related or unrelated persons,Yes
+704,63,1,2,,Territorial capitals,One person household,No
+705,47,3,1,,Saskatchewan,Couple with children,Yes
+706,12,1,1,,Nova Scotia,One person household,Yes
+707,63,5,1,,Territorial capitals,Lone parent family with no additional persons,Yes
+708,48,2,1,,Alberta,Couple without children,Yes
+709,46,2,1,,Manitoba,Couple without children,Yes
+710,35,2,1,,Ontario,Couple without children,Yes
+711,24,1,1,,Quebec,One person household,Yes
+712,48,6,2,,Alberta,Other household with related or unrelated persons,No
+713,48,2,1,,Alberta,Couple without children,Yes
+714,24,1,1,,Quebec,One person household,Yes
+715,46,5,2,,Manitoba,Lone parent family with no additional persons,No
+716,47,3,1,,Saskatchewan,Couple with children,Yes
+717,11,6,1,,Prince Edward Island,Other household with related or unrelated persons,Yes
+718,24,1,2,,Quebec,One person household,No
+719,13,3,1,,New Brunswick,Couple with children,Yes
+720,13,2,1,,New Brunswick,Couple without children,Yes
+721,10,2,1,,Newfoundland and Labrador,Couple without children,Yes
+722,13,5,1,,New Brunswick,Lone parent family with no additional persons,Yes
+723,10,6,1,,Newfoundland and Labrador,Other household with related or unrelated persons,Yes
+724,11,6,1,,Prince Edward Island,Other household with related or unrelated persons,Yes
+725,24,2,1,,Quebec,Couple without children,Yes
+726,12,1,1,,Nova Scotia,One person household,Yes
+727,10,2,1,,Newfoundland and Labrador,Couple without children,Yes
+728,10,2,1,,Newfoundland and Labrador,Couple without children,Yes
+729,13,2,1,,New Brunswick,Couple without children,Yes
+730,12,2,1,,Nova Scotia,Couple without children,Yes
+731,59,1,2,,British Columbia,One person household,No
+732,59,2,1,,British Columbia,Couple without children,Yes
+733,59,2,2,,British Columbia,Couple without children,No
+734,10,6,2,,Newfoundland and Labrador,Other household with related or unrelated persons,No
+735,13,1,2,,New Brunswick,One person household,No
+736,35,4,1,,Ontario,Couple with other related or unrelated persons,Yes
+737,13,3,1,,New Brunswick,Couple with children,Yes
+738,13,2,1,,New Brunswick,Couple without children,Yes
+739,12,2,1,,Nova Scotia,Couple without children,Yes
+740,24,1,1,,Quebec,One person household,Yes
+741,46,2,1,,Manitoba,Couple without children,Yes
+742,10,1,2,,Newfoundland and Labrador,One person household,No
+743,12,1,1,,Nova Scotia,One person household,Yes
+744,48,2,1,,Alberta,Couple without children,Yes
+745,12,3,1,,Nova Scotia,Couple with children,Yes
+746,48,6,1,,Alberta,Other household with related or unrelated persons,Yes
+747,48,2,1,,Alberta,Couple without children,Yes
+748,59,2,2,,British Columbia,Couple without children,No
+749,13,3,1,,New Brunswick,Couple with children,Yes
+750,59,1,1,,British Columbia,One person household,Yes
+751,13,2,2,,New Brunswick,Couple without children,No
+752,35,2,1,,Ontario,Couple without children,Yes
+753,48,3,2,,Alberta,Couple with children,No
+754,48,2,1,,Alberta,Couple without children,Yes
+755,46,1,1,,Manitoba,One person household,Yes
+756,11,6,2,,Prince Edward Island,Other household with related or unrelated persons,No
+757,46,3,1,,Manitoba,Couple with children,Yes
+758,46,2,1,,Manitoba,Couple without children,Yes
+759,47,3,1,,Saskatchewan,Couple with children,Yes
+760,35,1,1,,Ontario,One person household,Yes
+761,10,6,1,,Newfoundland and Labrador,Other household with related or unrelated persons,Yes
+762,13,2,1,,New Brunswick,Couple without children,Yes
+763,12,2,1,,Nova Scotia,Couple without children,Yes
+764,12,1,2,,Nova Scotia,One person household,No
+765,35,2,1,,Ontario,Couple without children,Yes
+766,24,2,1,,Quebec,Couple without children,Yes
+767,59,4,1,,British Columbia,Couple with other related or unrelated persons,Yes
+768,35,2,1,,Ontario,Couple without children,Yes
+769,47,1,2,,Saskatchewan,One person household,No
+770,63,2,1,,Territorial capitals,Couple without children,Yes
+771,63,2,1,,Territorial capitals,Couple without children,Yes
+772,12,2,2,,Nova Scotia,Couple without children,No
+773,11,1,1,,Prince Edward Island,One person household,Yes
+774,46,2,1,,Manitoba,Couple without children,Yes
+775,59,3,1,,British Columbia,Couple with children,Yes
+776,12,2,1,,Nova Scotia,Couple without children,Yes
+777,24,4,1,,Quebec,Couple with other related or unrelated persons,Yes
+778,47,3,1,,Saskatchewan,Couple with children,Yes
+779,47,3,1,,Saskatchewan,Couple with children,Yes
+780,59,2,1,,British Columbia,Couple without children,Yes
+781,35,6,1,,Ontario,Other household with related or unrelated persons,Yes
+782,48,6,1,,Alberta,Other household with related or unrelated persons,Yes
+783,24,1,1,,Quebec,One person household,Yes
+784,10,4,1,,Newfoundland and Labrador,Couple with other related or unrelated persons,Yes
+785,48,2,1,,Alberta,Couple without children,Yes
+786,10,2,1,,Newfoundland and Labrador,Couple without children,Yes
+787,24,1,1,,Quebec,One person household,Yes
+788,63,3,1,,Territorial capitals,Couple with children,Yes
+789,48,1,1,,Alberta,One person household,Yes
+790,59,6,1,,British Columbia,Other household with related or unrelated persons,Yes
+791,35,3,1,,Ontario,Couple with children,Yes
+792,24,1,1,,Quebec,One person household,Yes
+793,46,2,1,,Manitoba,Couple without children,Yes
+794,35,5,1,,Ontario,Lone parent family with no additional persons,Yes
+795,24,1,1,,Quebec,One person household,Yes
+796,48,1,1,,Alberta,One person household,Yes
+797,24,3,1,,Quebec,Couple with children,Yes
+798,47,4,1,,Saskatchewan,Couple with other related or unrelated persons,Yes
+799,47,5,1,,Saskatchewan,Lone parent family with no additional persons,Yes
+800,59,1,1,,British Columbia,One person household,Yes
+801,48,5,1,,Alberta,Lone parent family with no additional persons,Yes
+802,35,1,2,,Ontario,One person household,No
+803,59,2,2,,British Columbia,Couple without children,No
+804,13,2,1,,New Brunswick,Couple without children,Yes
+805,13,1,2,,New Brunswick,One person household,No
+806,48,1,1,,Alberta,One person household,Yes
+807,13,2,1,,New Brunswick,Couple without children,Yes
+808,59,2,1,,British Columbia,Couple without children,Yes
+809,13,2,1,,New Brunswick,Couple without children,Yes
+810,47,1,1,,Saskatchewan,One person household,Yes
+811,59,2,1,,British Columbia,Couple without children,Yes
+812,48,2,1,,Alberta,Couple without children,Yes
+813,48,2,1,,Alberta,Couple without children,Yes
+814,10,2,1,,Newfoundland and Labrador,Couple without children,Yes
+815,24,1,1,,Quebec,One person household,Yes
+816,13,2,2,,New Brunswick,Couple without children,No
+817,35,3,1,,Ontario,Couple with children,Yes
+818,48,1,2,,Alberta,One person household,No
+819,59,3,1,,British Columbia,Couple with children,Yes
+820,63,3,1,,Territorial capitals,Couple with children,Yes
+821,59,2,1,,British Columbia,Couple without children,Yes
+822,47,3,2,,Saskatchewan,Couple with children,No
+823,24,2,2,,Quebec,Couple without children,No
+824,59,2,1,,British Columbia,Couple without children,Yes
+825,47,1,2,,Saskatchewan,One person household,No
+826,24,3,1,,Quebec,Couple with children,Yes
+827,46,3,1,,Manitoba,Couple with children,Yes
+828,11,1,2,,Prince Edward Island,One person household,No
+829,24,3,1,,Quebec,Couple with children,Yes
+830,13,1,1,,New Brunswick,One person household,Yes
+831,10,2,1,,Newfoundland and Labrador,Couple without children,Yes
+832,10,1,2,,Newfoundland and Labrador,One person household,No
+833,24,2,2,,Quebec,Couple without children,No
+834,35,3,1,,Ontario,Couple with children,Yes
+835,24,1,2,,Quebec,One person household,No
+836,10,1,2,,Newfoundland and Labrador,One person household,No
+837,35,5,1,,Ontario,Lone parent family with no additional persons,Yes
+838,48,1,1,,Alberta,One person household,Yes
+839,59,1,1,,British Columbia,One person household,Yes
+840,48,1,1,,Alberta,One person household,Yes
+841,10,2,2,,Newfoundland and Labrador,Couple without children,No
+842,10,2,1,,Newfoundland and Labrador,Couple without children,Yes
+843,35,1,2,,Ontario,One person household,No
+844,35,6,2,,Ontario,Other household with related or unrelated persons,No
+845,48,1,1,,Alberta,One person household,Yes
+846,13,1,2,,New Brunswick,One person household,No
+847,48,3,1,,Alberta,Couple with children,Yes
+848,35,1,1,,Ontario,One person household,Yes
+849,12,1,1,,Nova Scotia,One person household,Yes
+850,63,1,1,,Territorial capitals,One person household,Yes
+851,13,4,1,,New Brunswick,Couple with other related or unrelated persons,Yes
+852,47,6,1,,Saskatchewan,Other household with related or unrelated persons,Yes
+853,59,3,1,,British Columbia,Couple with children,Yes
+854,10,1,2,,Newfoundland and Labrador,One person household,No
+855,10,2,1,,Newfoundland and Labrador,Couple without children,Yes
+856,35,5,1,,Ontario,Lone parent family with no additional persons,Yes
+857,10,5,1,,Newfoundland and Labrador,Lone parent family with no additional persons,Yes
+858,59,3,1,,British Columbia,Couple with children,Yes
+859,47,3,1,,Saskatchewan,Couple with children,Yes
+860,63,1,2,,Territorial capitals,One person household,No
+861,48,3,1,,Alberta,Couple with children,Yes
+862,13,2,1,,New Brunswick,Couple without children,Yes
+863,12,5,1,,Nova Scotia,Lone parent family with no additional persons,Yes
+864,13,2,1,,New Brunswick,Couple without children,Yes
+865,24,2,1,,Quebec,Couple without children,Yes
+866,10,5,1,,Newfoundland and Labrador,Lone parent family with no additional persons,Yes
+867,35,3,1,,Ontario,Couple with children,Yes
+868,59,1,2,,British Columbia,One person household,No
+869,48,4,1,,Alberta,Couple with other related or unrelated persons,Yes
+870,24,1,1,,Quebec,One person household,Yes
+871,47,5,2,,Saskatchewan,Lone parent family with no additional persons,No
+872,12,1,1,,Nova Scotia,One person household,Yes
+873,35,2,1,,Ontario,Couple without children,Yes
+874,12,1,1,,Nova Scotia,One person household,Yes
+875,10,3,1,,Newfoundland and Labrador,Couple with children,Yes
+876,47,3,1,,Saskatchewan,Couple with children,Yes
+877,10,3,1,,Newfoundland and Labrador,Couple with children,Yes
+878,12,5,1,,Nova Scotia,Lone parent family with no additional persons,Yes
+879,10,1,1,,Newfoundland and Labrador,One person household,Yes
+880,24,1,1,,Quebec,One person household,Yes
+881,48,2,1,,Alberta,Couple without children,Yes
+882,10,3,1,,Newfoundland and Labrador,Couple with children,Yes
+883,59,2,1,,British Columbia,Couple without children,Yes
+884,13,2,1,,New Brunswick,Couple without children,Yes
+885,35,1,1,,Ontario,One person household,Yes
+886,63,1,2,,Territorial capitals,One person household,No
+887,47,3,1,,Saskatchewan,Couple with children,Yes
+888,10,4,1,,Newfoundland and Labrador,Couple with other related or unrelated persons,Yes
+889,63,3,1,,Territorial capitals,Couple with children,Yes
+890,59,1,1,,British Columbia,One person household,Yes
+891,35,3,1,,Ontario,Couple with children,Yes
+892,46,1,1,,Manitoba,One person household,Yes
+893,13,1,1,,New Brunswick,One person household,Yes
+894,13,2,1,,New Brunswick,Couple without children,Yes
+895,24,1,1,,Quebec,One person household,Yes
+896,35,2,2,,Ontario,Couple without children,No
+897,59,3,1,,British Columbia,Couple with children,Yes
+898,47,1,2,,Saskatchewan,One person household,No
+899,12,5,1,,Nova Scotia,Lone parent family with no additional persons,Yes
+900,47,3,1,,Saskatchewan,Couple with children,Yes
+901,48,2,1,,Alberta,Couple without children,Yes
+902,24,3,1,,Quebec,Couple with children,Yes
+903,13,1,1,,New Brunswick,One person household,Yes
+904,13,1,1,,New Brunswick,One person household,Yes
+905,47,6,1,,Saskatchewan,Other household with related or unrelated persons,Yes
+906,13,6,1,,New Brunswick,Other household with related or unrelated persons,Yes
+907,59,3,1,,British Columbia,Couple with children,Yes
+908,10,5,2,,Newfoundland and Labrador,Lone parent family with no additional persons,No
+909,47,1,1,,Saskatchewan,One person household,Yes
+910,59,1,1,,British Columbia,One person household,Yes
+911,24,2,1,,Quebec,Couple without children,Yes
+912,24,3,1,,Quebec,Couple with children,Yes
+913,13,5,2,,New Brunswick,Lone parent family with no additional persons,No
+914,59,3,1,,British Columbia,Couple with children,Yes
+915,10,3,1,,Newfoundland and Labrador,Couple with children,Yes
+916,48,2,1,,Alberta,Couple without children,Yes
+917,63,5,1,,Territorial capitals,Lone parent family with no additional persons,Yes
+918,47,2,1,,Saskatchewan,Couple without children,Yes
+919,10,2,1,,Newfoundland and Labrador,Couple without children,Yes
+920,24,2,1,,Quebec,Couple without children,Yes
+921,13,3,1,,New Brunswick,Couple with children,Yes
+922,10,2,1,,Newfoundland and Labrador,Couple without children,Yes
+923,46,3,1,,Manitoba,Couple with children,Yes
+924,13,2,1,,New Brunswick,Couple without children,Yes
+925,12,3,1,,Nova Scotia,Couple with children,Yes
+926,11,3,1,,Prince Edward Island,Couple with children,Yes
+927,59,2,1,,British Columbia,Couple without children,Yes
+928,47,3,1,,Saskatchewan,Couple with children,Yes
+929,13,4,2,,New Brunswick,Couple with other related or unrelated persons,No
+930,10,2,1,,Newfoundland and Labrador,Couple without children,Yes
+931,59,4,1,,British Columbia,Couple with other related or unrelated persons,Yes
+932,35,1,1,,Ontario,One person household,Yes
+933,59,2,1,,British Columbia,Couple without children,Yes
+934,12,2,1,,Nova Scotia,Couple without children,Yes
+935,47,3,1,,Saskatchewan,Couple with children,Yes
+936,48,1,1,,Alberta,One person household,Yes
+937,59,2,1,,British Columbia,Couple without children,Yes
+938,46,3,1,,Manitoba,Couple with children,Yes
+939,13,3,1,,New Brunswick,Couple with children,Yes
+940,47,3,1,,Saskatchewan,Couple with children,Yes
+941,47,2,1,,Saskatchewan,Couple without children,Yes
+942,35,1,1,,Ontario,One person household,Yes
+943,59,4,1,,British Columbia,Couple with other related or unrelated persons,Yes
+944,13,2,1,,New Brunswick,Couple without children,Yes
+945,63,3,1,,Territorial capitals,Couple with children,Yes
+946,10,1,2,,Newfoundland and Labrador,One person household,No
+947,59,1,1,,British Columbia,One person household,Yes
+948,11,3,1,,Prince Edward Island,Couple with children,Yes
+949,59,1,1,,British Columbia,One person household,Yes
+950,24,3,1,,Quebec,Couple with children,Yes
+951,46,1,1,,Manitoba,One person household,Yes
+952,46,4,1,,Manitoba,Couple with other related or unrelated persons,Yes
+953,46,2,1,,Manitoba,Couple without children,Yes
+954,10,1,1,,Newfoundland and Labrador,One person household,Yes
+955,10,3,1,,Newfoundland and Labrador,Couple with children,Yes
+956,35,2,1,,Ontario,Couple without children,Yes
+957,13,3,1,,New Brunswick,Couple with children,Yes
+958,12,2,1,,Nova Scotia,Couple without children,Yes
+959,59,3,1,,British Columbia,Couple with children,Yes
+960,59,1,1,,British Columbia,One person household,Yes
+961,46,3,1,,Manitoba,Couple with children,Yes
+962,59,3,1,,British Columbia,Couple with children,Yes
+963,24,2,1,,Quebec,Couple without children,Yes
+964,13,2,1,,New Brunswick,Couple without children,Yes
+965,48,3,1,,Alberta,Couple with children,Yes
+966,35,1,1,,Ontario,One person household,Yes
+967,46,1,2,,Manitoba,One person household,No
+968,46,3,2,,Manitoba,Couple with children,No
+969,46,2,1,,Manitoba,Couple without children,Yes
+970,48,1,2,,Alberta,One person household,No
+971,13,3,1,,New Brunswick,Couple with children,Yes
+972,48,3,1,,Alberta,Couple with children,Yes
+973,10,6,2,,Newfoundland and Labrador,Other household with related or unrelated persons,No
+974,11,1,2,,Prince Edward Island,One person household,No
+975,10,2,1,,Newfoundland and Labrador,Couple without children,Yes
+976,12,1,1,,Nova Scotia,One person household,Yes
+977,59,1,1,,British Columbia,One person household,Yes
+978,10,2,1,,Newfoundland and Labrador,Couple without children,Yes
+979,59,2,2,,British Columbia,Couple without children,No
+980,46,1,1,,Manitoba,One person household,Yes
+981,35,1,1,,Ontario,One person household,Yes
+982,63,1,1,,Territorial capitals,One person household,Yes
+983,12,1,1,,Nova Scotia,One person household,Yes
+984,48,3,1,,Alberta,Couple with children,Yes
+985,11,3,1,,Prince Edward Island,Couple with children,Yes
+986,35,1,2,,Ontario,One person household,No
+987,13,1,1,,New Brunswick,One person household,Yes
+988,35,3,1,,Ontario,Couple with children,Yes
+989,12,6,1,,Nova Scotia,Other household with related or unrelated persons,Yes
+990,13,5,1,,New Brunswick,Lone parent family with no additional persons,Yes
+991,24,5,1,,Quebec,Lone parent family with no additional persons,Yes
+992,48,3,1,,Alberta,Couple with children,Yes
+993,35,3,1,,Ontario,Couple with children,Yes
+994,12,2,1,,Nova Scotia,Couple without children,Yes
+995,24,1,1,,Quebec,One person household,Yes
+996,47,2,2,,Saskatchewan,Couple without children,No
+997,12,2,1,,Nova Scotia,Couple without children,Yes
+998,10,3,1,,Newfoundland and Labrador,Couple with children,Yes
+999,46,2,1,,Manitoba,Couple without children,Yes
+1000,47,2,1,,Saskatchewan,Couple without children,Yes
+1001,47,1,1,,Saskatchewan,One person household,Yes
+1002,59,2,2,,British Columbia,Couple without children,No
+1003,46,6,1,,Manitoba,Other household with related or unrelated persons,Yes
+1004,35,6,1,,Ontario,Other household with related or unrelated persons,Yes
+1005,13,5,2,,New Brunswick,Lone parent family with no additional persons,No
+1006,10,2,1,,Newfoundland and Labrador,Couple without children,Yes
+1007,48,3,1,,Alberta,Couple with children,Yes
+1008,24,2,1,,Quebec,Couple without children,Yes
+1009,10,2,1,,Newfoundland and Labrador,Couple without children,Yes
+1010,13,3,2,,New Brunswick,Couple with children,No
+1011,24,3,1,,Quebec,Couple with children,Yes
+1012,48,2,1,,Alberta,Couple without children,Yes
+1013,24,1,1,,Quebec,One person household,Yes
+1014,13,2,1,,New Brunswick,Couple without children,Yes
+1015,46,2,1,,Manitoba,Couple without children,Yes
+1016,10,2,2,,Newfoundland and Labrador,Couple without children,No
+1017,11,3,1,,Prince Edward Island,Couple with children,Yes
+1018,13,2,2,,New Brunswick,Couple without children,No
+1019,13,2,1,,New Brunswick,Couple without children,Yes
+1020,63,2,1,,Territorial capitals,Couple without children,Yes
+1021,10,5,2,,Newfoundland and Labrador,Lone parent family with no additional persons,No
+1022,24,6,1,,Quebec,Other household with related or unrelated persons,Yes
+1023,10,3,2,,Newfoundland and Labrador,Couple with children,No
+1024,11,3,1,,Prince Edward Island,Couple with children,Yes
+1025,48,3,1,,Alberta,Couple with children,Yes
+1026,35,2,2,,Ontario,Couple without children,No
+1027,59,3,1,,British Columbia,Couple with children,Yes
+1028,47,2,1,,Saskatchewan,Couple without children,Yes
+1029,13,2,2,,New Brunswick,Couple without children,No
+1030,35,6,1,,Ontario,Other household with related or unrelated persons,Yes
+1031,59,3,1,,British Columbia,Couple with children,Yes
+1032,13,2,1,,New Brunswick,Couple without children,Yes
+1033,13,2,2,,New Brunswick,Couple without children,No
+1034,13,2,1,,New Brunswick,Couple without children,Yes
+1035,24,6,1,,Quebec,Other household with related or unrelated persons,Yes
+1036,48,3,1,,Alberta,Couple with children,Yes
+1037,46,2,1,,Manitoba,Couple without children,Yes
+1038,10,6,1,,Newfoundland and Labrador,Other household with related or unrelated persons,Yes
+1039,48,2,1,,Alberta,Couple without children,Yes
+1040,48,3,1,,Alberta,Couple with children,Yes
+1041,59,6,1,,British Columbia,Other household with related or unrelated persons,Yes
+1042,59,5,1,,British Columbia,Lone parent family with no additional persons,Yes
+1043,35,1,1,,Ontario,One person household,Yes
+1044,10,3,1,,Newfoundland and Labrador,Couple with children,Yes
+1045,59,5,1,,British Columbia,Lone parent family with no additional persons,Yes
+1046,10,1,2,,Newfoundland and Labrador,One person household,No
+1047,13,1,1,,New Brunswick,One person household,Yes
+1048,24,1,1,,Quebec,One person household,Yes
+1049,47,2,1,,Saskatchewan,Couple without children,Yes
+1050,10,3,1,,Newfoundland and Labrador,Couple with children,Yes
+1051,11,4,1,,Prince Edward Island,Couple with other related or unrelated persons,Yes
+1052,46,2,1,,Manitoba,Couple without children,Yes
+1053,11,2,1,,Prince Edward Island,Couple without children,Yes
+1054,59,1,1,,British Columbia,One person household,Yes
+1055,46,1,1,,Manitoba,One person household,Yes
+1056,24,3,1,,Quebec,Couple with children,Yes
+1057,59,3,1,,British Columbia,Couple with children,Yes
+1058,24,2,1,,Quebec,Couple without children,Yes
+1059,46,6,1,,Manitoba,Other household with related or unrelated persons,Yes
+1060,10,3,1,,Newfoundland and Labrador,Couple with children,Yes
+1061,13,1,2,,New Brunswick,One person household,No
+1062,47,1,2,,Saskatchewan,One person household,No
+1063,59,5,1,,British Columbia,Lone parent family with no additional persons,Yes
+1064,10,2,1,,Newfoundland and Labrador,Couple without children,Yes
+1065,12,2,1,,Nova Scotia,Couple without children,Yes
+1066,59,3,1,,British Columbia,Couple with children,Yes
+1067,48,5,1,,Alberta,Lone parent family with no additional persons,Yes
+1068,46,2,1,,Manitoba,Couple without children,Yes
+1069,59,4,1,,British Columbia,Couple with other related or unrelated persons,Yes
+1070,24,5,2,,Quebec,Lone parent family with no additional persons,No
+1071,24,2,1,,Quebec,Couple without children,Yes
+1072,48,2,1,,Alberta,Couple without children,Yes
+1073,12,2,1,,Nova Scotia,Couple without children,Yes
+1074,48,2,1,,Alberta,Couple without children,Yes
+1075,48,3,1,,Alberta,Couple with children,Yes
+1076,63,2,1,,Territorial capitals,Couple without children,Yes
+1077,46,1,1,,Manitoba,One person household,Yes
+1078,47,6,1,,Saskatchewan,Other household with related or unrelated persons,Yes
+1079,10,2,1,,Newfoundland and Labrador,Couple without children,Yes
+1080,63,2,2,,Territorial capitals,Couple without children,No
+1081,11,2,1,,Prince Edward Island,Couple without children,Yes
+1082,10,1,2,,Newfoundland and Labrador,One person household,No
+1083,12,6,1,,Nova Scotia,Other household with related or unrelated persons,Yes
+1084,13,3,1,,New Brunswick,Couple with children,Yes
+1085,10,1,2,,Newfoundland and Labrador,One person household,No
+1086,12,1,2,,Nova Scotia,One person household,No
+1087,59,3,1,,British Columbia,Couple with children,Yes
+1088,48,1,1,,Alberta,One person household,Yes
+1089,24,1,2,,Quebec,One person household,No
+1090,35,1,2,,Ontario,One person household,No
+1091,13,2,1,,New Brunswick,Couple without children,Yes
+1092,11,1,1,,Prince Edward Island,One person household,Yes
+1093,48,3,1,,Alberta,Couple with children,Yes
+1094,10,2,1,,Newfoundland and Labrador,Couple without children,Yes
+1095,48,1,1,,Alberta,One person household,Yes
+1096,10,3,1,,Newfoundland and Labrador,Couple with children,Yes
+1097,24,1,1,,Quebec,One person household,Yes
+1098,35,3,1,,Ontario,Couple with children,Yes
+1099,35,4,1,,Ontario,Couple with other related or unrelated persons,Yes
+1100,24,1,2,,Quebec,One person household,No
+1101,24,2,1,,Quebec,Couple without children,Yes
+1102,35,3,1,,Ontario,Couple with children,Yes
+1103,10,3,1,,Newfoundland and Labrador,Couple with children,Yes
+1104,10,1,1,,Newfoundland and Labrador,One person household,Yes
+1105,59,3,1,,British Columbia,Couple with children,Yes
+1106,48,2,1,,Alberta,Couple without children,Yes
+1107,12,2,1,,Nova Scotia,Couple without children,Yes
+1108,46,2,1,,Manitoba,Couple without children,Yes
+1109,59,2,1,,British Columbia,Couple without children,Yes
+1110,12,2,1,,Nova Scotia,Couple without children,Yes
+1111,46,3,1,,Manitoba,Couple with children,Yes
+1112,35,1,1,,Ontario,One person household,Yes
+1113,48,2,1,,Alberta,Couple without children,Yes
+1114,59,5,1,,British Columbia,Lone parent family with no additional persons,Yes
+1115,47,2,2,,Saskatchewan,Couple without children,No
+1116,35,3,1,,Ontario,Couple with children,Yes
+1117,59,2,1,,British Columbia,Couple without children,Yes
+1118,59,6,1,,British Columbia,Other household with related or unrelated persons,Yes
+1119,46,3,1,,Manitoba,Couple with children,Yes
+1120,24,1,1,,Quebec,One person household,Yes
+1121,46,1,1,,Manitoba,One person household,Yes
+1122,35,3,2,,Ontario,Couple with children,No
+1123,13,1,1,,New Brunswick,One person household,Yes
+1124,12,5,1,,Nova Scotia,Lone parent family with no additional persons,Yes
+1125,46,3,1,,Manitoba,Couple with children,Yes
+1126,24,2,1,,Quebec,Couple without children,Yes
+1127,11,2,1,,Prince Edward Island,Couple without children,Yes
+1128,35,1,1,,Ontario,One person household,Yes
+1129,12,2,1,,Nova Scotia,Couple without children,Yes
+1130,46,1,1,,Manitoba,One person household,Yes
+1131,10,3,1,,Newfoundland and Labrador,Couple with children,Yes
+1132,35,2,1,,Ontario,Couple without children,Yes
+1133,47,1,2,,Saskatchewan,One person household,No
+1134,10,1,2,,Newfoundland and Labrador,One person household,No
+1135,35,3,1,,Ontario,Couple with children,Yes
+1136,46,3,1,,Manitoba,Couple with children,Yes
+1137,24,3,1,,Quebec,Couple with children,Yes
+1138,13,2,2,,New Brunswick,Couple without children,No
+1139,48,3,1,,Alberta,Couple with children,Yes
+1140,13,2,1,,New Brunswick,Couple without children,Yes
+1141,35,2,1,,Ontario,Couple without children,Yes
+1142,13,3,1,,New Brunswick,Couple with children,Yes
+1143,48,2,1,,Alberta,Couple without children,Yes
+1144,46,1,1,,Manitoba,One person household,Yes
+1145,13,3,1,,New Brunswick,Couple with children,Yes
+1146,48,2,1,,Alberta,Couple without children,Yes
+1147,35,3,1,,Ontario,Couple with children,Yes
+1148,47,2,1,,Saskatchewan,Couple without children,Yes
+1149,12,2,1,,Nova Scotia,Couple without children,Yes
+1150,12,1,1,,Nova Scotia,One person household,Yes
+1151,13,1,1,,New Brunswick,One person household,Yes
+1152,48,1,1,,Alberta,One person household,Yes
+1153,24,3,1,,Quebec,Couple with children,Yes
+1154,46,1,1,,Manitoba,One person household,Yes
+1155,10,3,1,,Newfoundland and Labrador,Couple with children,Yes
+1156,12,2,2,,Nova Scotia,Couple without children,No
+1157,59,6,2,,British Columbia,Other household with related or unrelated persons,No
+1158,10,1,2,,Newfoundland and Labrador,One person household,No
+1159,47,3,2,,Saskatchewan,Couple with children,No
+1160,48,3,1,,Alberta,Couple with children,Yes
+1161,13,5,1,,New Brunswick,Lone parent family with no additional persons,Yes
+1162,35,1,1,,Ontario,One person household,Yes
+1163,13,2,1,,New Brunswick,Couple without children,Yes
+1164,46,2,1,,Manitoba,Couple without children,Yes
+1165,12,2,1,,Nova Scotia,Couple without children,Yes
+1166,59,2,1,,British Columbia,Couple without children,Yes
+1167,47,6,1,,Saskatchewan,Other household with related or unrelated persons,Yes
+1168,24,2,2,,Quebec,Couple without children,No
+1169,47,2,1,,Saskatchewan,Couple without children,Yes
+1170,46,3,1,,Manitoba,Couple with children,Yes
+1171,48,2,1,,Alberta,Couple without children,Yes
+1172,35,3,1,,Ontario,Couple with children,Yes
+1173,46,6,1,,Manitoba,Other household with related or unrelated persons,Yes
+1174,10,2,1,,Newfoundland and Labrador,Couple without children,Yes
+1175,10,2,1,,Newfoundland and Labrador,Couple without children,Yes
+1176,24,2,1,,Quebec,Couple without children,Yes
+1177,63,1,1,,Territorial capitals,One person household,Yes
+1178,13,3,1,,New Brunswick,Couple with children,Yes
+1179,59,2,2,,British Columbia,Couple without children,No
+1180,35,3,1,,Ontario,Couple with children,Yes
+1181,59,2,1,,British Columbia,Couple without children,Yes
+1182,12,6,1,,Nova Scotia,Other household with related or unrelated persons,Yes
+1183,63,1,1,,Territorial capitals,One person household,Yes
+1184,48,1,1,,Alberta,One person household,Yes
+1185,10,2,1,,Newfoundland and Labrador,Couple without children,Yes
+1186,63,3,1,,Territorial capitals,Couple with children,Yes
+1187,47,1,1,,Saskatchewan,One person household,Yes
+1188,11,3,1,,Prince Edward Island,Couple with children,Yes
+1189,46,3,2,,Manitoba,Couple with children,No
+1190,46,3,1,,Manitoba,Couple with children,Yes
+1191,47,3,1,,Saskatchewan,Couple with children,Yes
+1192,48,1,1,,Alberta,One person household,Yes
+1193,47,1,1,,Saskatchewan,One person household,Yes
+1194,10,5,2,,Newfoundland and Labrador,Lone parent family with no additional persons,No
+1195,13,1,1,,New Brunswick,One person household,Yes
+1196,24,2,1,,Quebec,Couple without children,Yes
+1197,47,3,1,,Saskatchewan,Couple with children,Yes
+1198,63,3,1,,Territorial capitals,Couple with children,Yes
+1199,47,3,1,,Saskatchewan,Couple with children,Yes
+1200,10,2,1,,Newfoundland and Labrador,Couple without children,Yes
+1201,12,1,1,,Nova Scotia,One person household,Yes
+1202,46,2,1,,Manitoba,Couple without children,Yes
+1203,24,3,2,,Quebec,Couple with children,No
+1204,13,2,1,,New Brunswick,Couple without children,Yes
+1205,10,3,1,,Newfoundland and Labrador,Couple with children,Yes
+1206,35,3,1,,Ontario,Couple with children,Yes
+1207,48,6,2,,Alberta,Other household with related or unrelated persons,No
+1208,13,3,1,,New Brunswick,Couple with children,Yes
+1209,59,1,1,,British Columbia,One person household,Yes
+1210,13,3,1,,New Brunswick,Couple with children,Yes
+1211,12,2,1,,Nova Scotia,Couple without children,Yes
+1212,24,3,1,,Quebec,Couple with children,Yes
+1213,46,3,1,,Manitoba,Couple with children,Yes
+1214,10,2,1,,Newfoundland and Labrador,Couple without children,Yes
+1215,46,1,1,,Manitoba,One person household,Yes
+1216,46,1,1,,Manitoba,One person household,Yes
+1217,13,2,1,,New Brunswick,Couple without children,Yes
+1218,48,2,2,,Alberta,Couple without children,No
